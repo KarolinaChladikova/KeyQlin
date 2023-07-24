@@ -14,6 +14,12 @@ void main() {
     'pronouns': 'she/her',
     'student': 'true'
   };
-  const learning = [Javascript, Typescript, React, Dart];
+  const learning = [Javascript, Typescript, React];
+  var goal = [Dart, Flutter]
 }
 ```
+
+
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) 
+![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
